@@ -1,0 +1,6 @@
+Q1- A) (object instanceof GeometricObject)
+       (circle instanceof Circle)
+    
+    B) it cannot.
+
+    C) it can.
